@@ -1,0 +1,27 @@
+Crear función para leer y crear archivos en formato csv, xlsx, xls. De forma nativa en python
+Crear un crud para clientes
+Crear tablas para 
+- Paises
+- Categorias
+- clientes
+nota: Definir llaves primarias y foraneas para las bases de datos
+Generar archivos de prueba con datos de clientes en cada formato 
+
+Nota: Como paginar datos en una apirest
+Crear metodos para validar datos de clientes
+- Validar que los nombres no contengan caracters numericos
+- Validar paises exitentes
+- Validar categorias validas
+- Validar nombres de ciudad exitentes
+
+Crear una función para generar informes que reciban los siguientes parametros como filtro:
+- fecha (rango de fecha)
+- categorias
+- ciudad
+- pais
+
+Generar informe en csv de forma nativa en python
+
+Tiempo limite: 3 días
+
+

@@ -8,7 +8,7 @@ from app.categories.schemas import CategoryResponse
 allowed_citites = [
     "Bogota", "Medellin", "Guadalajara", "Ciudad de Mexico", 
     "Barcelona", "Madrid", "Buenos Aires", "Cordoba"
-]
+    ]
 
 class ClientBase(BaseModel):
     name_client: str = Field(..., min_length=3, max_length=100)
